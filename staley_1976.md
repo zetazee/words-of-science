@@ -15,7 +15,7 @@
 </details>
 
 <details>
-  <summary>substrata /ˈsʌbˌstreɪ.təm/ or /ˈsʌbˌstræ.təm/</summary>
+  <summary>substrata: /ˈsʌbˌstreɪ.təm/ or /ˈsʌbˌstræ.təm/</summary>
   <ul>
     <li>sub: under</li>
     <li>strata: something spread out underneath</li>
@@ -60,7 +60,7 @@
     <li><b>Crossbands</b> are transverse structures or rings found within the stalks (prosthecae) of bacteria in the genus <i>Caulobacter</i> and <i>Asticcacaulis</i>. These bands provide structural reinforcement and are characteristic of certain genera.</li>
     <li>In contrast, <i>Prosthecobacter fusiformis</i> lacks these crossband structures, which helps distinguish it from other caulobacter-like bacteria.</li>
   </ul>
-  <img src="https://github.com/user-attachments/assets/6a861a6b-c702-40e3-9f1d-a55c41560423" alt="Crossband Structure" width="300">
+  <img src="https://github.com/user-attachments/assets/6a861a6b-c702-40e3-9f1d-a55c41560423" alt="Crossband Structure" width="500">
 </details>
 
 <details>
@@ -206,4 +206,420 @@
 
 ---
 
+<details>
+  <summary>peptone</summary>
+  <ul>
+    <li>Peptone refers to a mixture of water-soluble protein fragments, primarily polypeptides and amino acids, obtained by partial hydrolysis of proteins, typically used as a nutrient source in microbiological culture media.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>incubate /ˈɪn.kjʊ.beɪt/ or /ˈɪŋ.kjʊ.beɪt/</summary>
+  <ul>
+    <li>The word "incubate" comes from the Latin <b>incubare</b>, meaning "to lie upon" or "to brood over," from <i>in-</i> (on, upon) + <i>cubare</i> (to lie down). It was first used in English in the mid-17th century, primarily in the context of birds sitting on eggs.</li>
+  </ul>
+  <b>Meaning:</b>
+  <ol>
+    <li>To keep something (e.g., eggs, cells, or microorganisms) in conditions suitable for hatching, growth, or development.</li>
+    <li>To develop or foster an idea or plan gradually, often in secrecy or with care.</li>
+  </ol>
+</details>
+
+<details>
+  <summary>streak /striːk/</summary>
+  <ul>
+    <li><b>Persian:</b>
+      <ul>
+        <li><b>(Noun):</b> خط (<i>khat</i>), رگه (<i>rageh</i>)</li>
+        <li><b>(Verb):</b> خط انداختن (<i>khat andâkhtan</i>), رگه‌دار کردن (<i>ragehdâr kardan</i>)</li>
+      </ul>
+    </li>
+    <li><b>Turkish:</b>
+      <ul>
+        <li><b>(Noun):</b> çizgi, iz</li>
+        <li><b>(Verb):</b> iz bırakmak, çizgi çizmek</li>
+      </ul>
+    </li>
+    <li><b>Norwegian:</b>
+      <ul>
+        <li><b>(Noun):</b> strek, stripe</li>
+        <li><b>(Verb):</b> streke, lage striper</li>
+      </ul>
+    </li>
+    <li><b>German:</b>
+      <ul>
+        <li><b>(Noun):</b> Streifen, Strähne</li>
+        <li><b>(Verb):</b> streifen, durchziehen</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>streaking procedure</summary>
+  <ul>
+    <li>Streaking is a microbiological technique used to isolate and separate individual microbial cells from a mixture. It involves spreading a small amount of a microbial sample across the surface of a solid growth medium (agar plate) in a systematic manner. This allows individual cells to grow into distinct, isolated colonies.</li>
+  </ul>
+  <img src="https://github.com/user-attachments/assets/6cba7b47-74c1-446e-a58f-4286383e9d8" alt="Streaking Procedure" width="500">
+</details>
+
+<details>
+  <summary>mount</summary>
+  <ul>
+    <li>Derived from Old English <b>munt</b>, from Latin <b>mons</b> (mountain, hill). The verb form developed in Middle English, influenced by Old French <b>monter</b>, meaning "to climb" or "to ascend," derived from Latin <b>montare</b> (to climb a mountain).</li>
+  </ul>
+  
+  <b>Meanings:</b>
+  <ol>
+    <li><b>Verb:</b>
+      <ul>
+        <li><b>To climb or ascend:</b><br>
+          Example: "She mounted the stairs quickly."
+        </li>
+        <li><b>To place or fix something in position:</b><br>
+          Example: "The picture was mounted on the wall."
+        </li>
+        <li><b>To organize or initiate:</b><br>
+          Example: "They mounted an expedition to explore the area."
+        </li>
+        <li><b>To increase or rise:</b><br>
+          Example: "Costs continue to mount."
+        </li>
+      </ul>
+    </li>
+    <li><b>Noun:</b>
+      <ul>
+        <li><b>A hill or mountain:</b><br>
+          Example: "Mount Everest is the tallest mountain in the world."
+        </li>
+        <li><b>A support or frame for holding something in place:</b><br>
+          Example: "The gem was placed in a silver mount."
+        </li>
+        <li><b>A horse or animal for riding:</b><br>
+          Example: "He saddled his mount before the journey."
+        </li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+<details>
+  <summary>wet mount procedure</summary>
+  <ul>
+    <li>A wet mount involves placing a drop of liquid (e.g., water or broth) containing microorganisms onto a glass slide, covered with a cover slip. This keeps the organisms alive and in a natural state for observation.</li>
+    <li>Procedure: 
+      <br>Place a drop of water → Pick a small portion of the colony with a sterile loop → Mix with water → Cover with cover slip → Examine under a microscope.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>phase-contrast microscopy</summary>
+  <ul>
+    <li>Enhances the contrast of transparent and colorless samples without the need for staining, making it easier to observe live organisms.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>sewage</summary>
+  <ul>
+    <li><b>Persian:</b> فاضلاب (<i>fâzelâb</i>)</li>
+    <li><b>Turkish:</b> kanalizasyon</li>
+    <li><b>Norwegian:</b> kloakk</li>
+    <li><b>German:</b> Abwasser</li>
+  </ul>
+</details>
+
+<details>
+  <summary>marl soil, marl pond</summary>
+  <ul>
+    <li>A type of soil or sediment that is a mixture of clay and calcium carbonate, often used as a fertilizer to improve agricultural land.</li>
+  </ul>
+  <img src="https://github.com/user-attachments/assets/2045ffd3-8a9c-4e0f-839e-c9baf2982460" alt="Streaking Procedure" width="500">
+</details>
+
+<details>
+  <summary>autoclave</summary>
+  <ul>
+    <li>High-pressure steam sterilization (typically at 121°C for 15-20 minutes).</li>
+    <li>Used for heat-stable substances (e.g., agar, peptone).</li>
+  </ul>
+</details>
+
+<details>
+  <summary>hence</summary>
+  <ul>
+    <li><b>Persian:</b>
+      <ul>
+        <li>بنابراین (<i>banábarin</i>)</li>
+        <li>از این رو (<i>az in roo</i>)</li>
+      </ul>
+    </li>
+    <li><b>Turkish:</b>
+      <ul>
+        <li>bu yüzden, dolayısıyla</li>
+      </ul>
+    </li>
+    <li><b>Norwegian:</b>
+      <ul>
+        <li>derfor, følgelig</li>
+      </ul>
+    </li>
+    <li><b>German:</b>
+      <ul>
+        <li>daher, somit</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>utilization</summary>
+  <ul>
+    <li><b>Persian:</b> استفاده (<i>estefâde</i>), بهره‌برداری (<i>bahrebardâri</i>)</li>
+    <li><b>Turkish:</b> kullanım, yararlanma</li>
+    <li><b>Norwegian:</b> utnyttelse, bruk</li>
+    <li><b>German:</b> Nutzung, Verwertung</li>
+  </ul>
+</details>
+
+<details>
+  <summary>complex medium</summary>
+  <ul>
+    <li>In microbiology, a <b>complex medium</b> is a type of growth medium used to cultivate microorganisms. It contains a mix of nutrients derived from partially digested organic material, such as extracts from plants, yeast, or animals. Unlike defined media, the exact chemical composition of a complex medium is not precisely known.</li>
+    <li><b>Nutrient-Rich:</b> Contains abundant nutrients to support the growth of a wide variety of microorganisms.</li>
+    <li><b>Components:</b> Often includes:
+      <ul>
+        <li>Peptone (protein hydrolysate)</li>
+        <li>Yeast extract</li>
+        <li>Beef extract</li>
+        <li>Agar (if solid medium)</li>
+      </ul>
+    </li>
+    <li><b>Variable Composition:</b> The exact proportions of its components can vary depending on the source of the extracts.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>MMB</summary>
+  <ul>
+    <li>Minimal Medium Broth</li>
+    <li><b>Minimal Medium Broth:</b> A type of growth medium in microbiology containing only the essential nutrients required for the growth of microorganisms, typically used for studying metabolic pathways.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>gradient block</summary>
+  <ul>
+    <li><b>Gradient:</b> A gradual change or variation in magnitude, position, or condition over a particular distance or range. (شیب)</li>
+    <li><b>A gradient block</b> is a device or method used to expose microorganisms to a range of temperatures simultaneously.</li>
+    <li>This setup allows researchers to test growth conditions efficiently over a continuous temperature spectrum.</li>
+    <li><b>Purpose of the Experiment:</b>
+      <ul>
+        <li>To identify the <b>minimum, optimum,</b> and <b>maximum temperatures</b> for the growth of the tested organism.</li>
+      </ul>
+    </li>
+    <li>This information helps classify the organism as:
+      <ul>
+        <li><b>Psychrophilic</b> (grows at low temperatures)</li>
+        <li><b>Mesophilic</b> (grows at moderate temperatures)</li>
+        <li><b>Thermophilic</b> (grows at high temperatures)</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>buoyant /ˈbɔɪ.ənt/</summary>
+  <ul>
+    <li>Able to float or rise in a fluid (liquid or gas) due to lower density or an upward force.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>buoyant-density centrifugation</summary>
+  <ul>
+    <li>Buoyant density centrifugation is a laboratory technique used to separate molecules, organelles, or cells based on their density. It involves spinning a sample in a centrifuge with a density gradient medium, such as cesium chloride (<b>CsCl</b>) or sucrose, until components settle at their characteristic buoyant density.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>PTA (Phosphotungstic Acid)</summary>
+  <ul>
+    <li>A chemical compound often used as a staining agent in electron microscopy or for protein precipitation. (<b>W:</b> tungsten)</li>
+  </ul>
+  <img src="[your-image-url.jpg](https://github.com/user-attachments/assets/feda1a62-4e61-46f1-84b8-bcc19057ee21" alt="Phosphotungstic Acid Structure" width="500">
+</details>
+
+<details>
+  <summary>thin sections</summary>
+  <ul>
+    <li>Thin sections are ultra-thin slices of biological material (e.g., cells or tissues) prepared for <b>electron microscopy</b> or <b>light microscopy</b>.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>embed</summary>
+  <ul>
+    <li><b>Persian:</b>
+      <ul>
+        <li>فروبردن (<i>foroo bordan</i>), جای‌گذاری کردن (<i>jâygâzâri kardan</i>)</li>
+      </ul>
+    </li>
+    <li><b>Turkish:</b>
+      <ul>
+        <li>gömnek, yerleştirmek</li>
+      </ul>
+    </li>
+    <li><b>Norwegian:</b>
+      <ul>
+        <li>integrere, innfelle</li>
+      </ul>
+    </li>
+    <li><b>German:</b>
+      <ul>
+        <li>einbetten, einfügen</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>Noble Agar (<i>Difco</i>)</summary>
+  <ul>
+    <li><b>Noble Agar</b> is a high-purity agar product manufactured by <b>Difco Laboratories</b>, often used in microbiology, molecular biology, and biochemistry applications. It is specifically refined for purposes where minimal impurities and inhibitory substances are required.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Epon 812</summary>
+  <ul>
+    <li><b>Epon 812</b> is a type of <b>epoxy resin</b> commonly used as an embedding medium in electron microscopy. Its high mechanical stability, transparency, and compatibility with biological samples make it ideal for preparing ultra-thin sections for high-resolution imaging.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>ultramicrotome</summary>
+  <ul>
+    <li>ultra: beyond</li>
+    <li>micro: small</li>
+    <li>-tome:</li>
+    <li>cutting, slice</li>
+    <li>An instrument for cutting extremely small or thin slices.</li>
+  </ul>
+  <p>An <b>ultramicrotome</b> is a precision instrument used to cut extremely thin sections of samples for analysis under a <b>transmission electron microscope (TEM)</b> or a <b>light microscope</b>. It is commonly used in fields like cell biology, materials science, and histology.</p>
+</details>
+
+<details>
+  <summary>diamond knife</summary>
+  <ul>
+    <li>A <b>diamond knife</b> is a precision cutting tool used in applications requiring extremely thin and accurate sections. It is primarily employed in <b>electron microscopy</b>, <b>ultramicrotomy</b>, and <b>eye surgery</b> due to its durability, sharpness, and ability to create ultra-thin slices.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>photomicrograph</summary>
+  <ul>
+    <li>A <b>photomicrograph</b> is a photograph taken through a microscope to capture detailed images of a specimen or microscopic structures. It is commonly used in scientific research, medicine, and education to document and analyze minute details not visible to the naked eye.</li>
+    <li>Components:
+      <ul>
+        <li>photo: light</li>
+        <li>micro: small</li>
+        <li>graph: to record, to write</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>interval</summary>
+  <ul>
+    <li>A space or period between two points, events, or objects.</li>
+    <li>Components:
+      <ul>
+        <li>inter: between</li>
+        <li>vallum: wall (space between two walls)</li>
+      </ul>
+    </li>
+    <li><b>Persian:</b>
+      <ul>
+        <li>فاصله (<i>fâseleh</i>), بازه (<i>bâzeh</i>)</li>
+      </ul>
+    </li>
+    <li><b>Turkish:</b>
+      <ul>
+        <li>aralık, süre</li>
+      </ul>
+    </li>
+    <li><b>Norwegian:</b>
+      <ul>
+        <li>intervall, pause</li>
+      </ul>
+    </li>
+    <li><b>German:</b>
+      <ul>
+        <li>Intervall, Pause</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>phage</summary>
+  <ul>
+    <li>Derived from the Greek word <b>φαγεῖν (phagein)</b>, meaning "to eat" or "to devour." The term was coined in the early 20th century as part of the word <b>bacteriophage</b>, meaning "bacteria eater."</li>
+  </ul>
+</details>
+
+<details>
+  <summary>phage typing</summary>
+  <ul>
+    <li><b>Phage typing</b> is a method used to classify bacteria based on their susceptibility to infection by specific <b>bacteriophages</b> (phages). It is a highly specific technique often used in microbiology to identify bacterial strains or types within a species.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>inoculum /ɪˈnɒk.jə.ləm/</summary>
+  <ul>
+    <li>The inoculum is the microbial sample (e.g., bacteria or yeast) transferred into a growth medium to start a culture.</li>
+    <li>Refers specifically to the material <b>intentionally introduced</b> into a culture medium, host, or environment to initiate growth or reaction.</li>
+    <li>Emphasis is on its <b>functional purpose</b> (to start a process, such as microbial growth or fermentation).</li>
+    <li><b>Example:</b>
+      <ul>
+        <li>"The inoculum of <i>E. coli</i> was added to the broth."</li>
+      </ul>
+    </li>
+    <li><b>Persian:</b> مایه تلقیح (<i>mâyeh talqîh</i>)</li>
+    <li><b>Turkish:</b> inokulum</li>
+    <li><b>Norwegian:</b> inokulum</li>
+    <li><b>German:</b> Inokulum</li>
+  </ul>
+</details>
+
+<details>
+  <summary>overlay</summary>
+  <ul>
+    <li><b>Persian:</b>
+      <ul>
+        <li>روکش (<i>rokesh</i>), پوشش (<i>pooshesh</i>)</li>
+      </ul>
+    </li>
+    <li><b>Turkish:</b>
+      <ul>
+        <li>kaplama, örtü</li>
+      </ul>
+    </li>
+    <li><b>Norwegian:</b>
+      <ul>
+        <li>overlegg, overflatebelegg</li>
+      </ul>
+    </li>
+    <li><b>German:</b>
+      <ul>
+        <li>Überzug, Überlagerung</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+---
 
