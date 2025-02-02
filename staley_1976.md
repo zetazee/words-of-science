@@ -260,7 +260,7 @@
   <ul>
     <li>Streaking is a microbiological technique used to isolate and separate individual microbial cells from a mixture. It involves spreading a small amount of a microbial sample across the surface of a solid growth medium (agar plate) in a systematic manner. This allows individual cells to grow into distinct, isolated colonies.</li>
   </ul>
-  <img src="https://github.com/user-attachments/assets/6cba7b47-74c1-446e-a58f-4286383e9d8" alt="Streaking Procedure" width="500">
+  <img src="https://github.com/user-attachments/assets/e88a25b1-c1d2-4424-996f-d0c70ba7d153" alt="Streaking Procedure" width="500">
 </details>
 
 <details>
@@ -334,7 +334,6 @@
   <ul>
     <li>A type of soil or sediment that is a mixture of clay and calcium carbonate, often used as a fertilizer to improve agricultural land.</li>
   </ul>
-  <img src="https://github.com/user-attachments/assets/2045ffd3-8a9c-4e0f-839e-c9baf2982460" alt="Streaking Procedure" width="500">
 </details>
 
 <details>
@@ -447,7 +446,7 @@
   <ul>
     <li>A chemical compound often used as a staining agent in electron microscopy or for protein precipitation. (<b>W:</b> tungsten)</li>
   </ul>
-  <img src="[your-image-url.jpg](https://github.com/user-attachments/assets/feda1a62-4e61-46f1-84b8-bcc19057ee21" alt="Phosphotungstic Acid Structure" width="500">
+  <img src="https://github.com/user-attachments/assets/feda1a62-4e61-46f1-84b8-bcc19057ee21" alt="Phosphotungstic Acid Structure" width="500">
 </details>
 
 <details>
@@ -622,4 +621,122 @@
 </details>
 
 ---
+
+<details>
+  <summary>rosette</summary>
+  <ul>
+    <li>A <b>rosette</b> refers to a circular or radial arrangement of parts resembling the shape of a rose. The term is used in various fields, including biology, microbiology, medicine, and engineering.</li>
+    <li><b>Persian:</b>
+      <ul>
+        <li>گل‌چین (<i>gol-chin</i>), رزت (<i>rozet</i>)</li>
+      </ul>
+    </li>
+    <li><b>Turkish:</b>
+      <ul>
+        <li>rozet, çiçek desenli düzen</li>
+      </ul>
+    </li>
+    <li><b>Norwegian:</b>
+      <ul>
+        <li>rosett</li>
+      </ul>
+    </li>
+    <li><b>German:</b>
+      <ul>
+        <li>Rosette</li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>disclose</summary>
+  <ul>
+    <li>The term <b>disclosed</b> refers to the act of revealing, uncovering, or making something known, especially information that was previously hidden, secret, or unknown.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>fimbrae /ˈfɪm.bri.aɪ/ or /ˈfɪm.bri.iː/</summary>
+  <ul>
+    <li><b>Persian:</b> تاجکچه‌ها (<i>tâjakcheh-hâ</i>)</li>
+    <li><b>Turkish:</b> fimbrialar</li>
+    <li><b>Norwegian:</b> fimbriae</li>
+    <li><b>German:</b> Fimbrien</li>
+  </ul>
+  <img src="https://github.com/user-attachments/assets/b94c33a6-39ef-4313-8a7c-fcddc030293b" alt="Fimbriae Structure" width="600">
+</details>
+
+<details>
+  <summary>distal end of prostheca</summary>
+  <ul>
+    <li>Farthest point of this structure from its point of attachment.</li>
+    <li>The <b>holdfast</b> is located at the distal end of prostheca.</li>
+  </ul>
+  <img src="https://github.com/user-attachments/assets/4b7e66ec-71a5-4183-8a9c-7786d12654f1" alt="Distal end of prostheca" width="400">
+</details>
+
+<details>
+  <summary>bulbous end</summary>
+  <img src="https://github.com/user-attachments/assets/586911ff-aeca-4579-b62c-5f5c219fe91d" alt="Bulbous End" width="400">
+</details>
+
+<details>
+  <summary>fine</summary>
+  <h3>Definition:</h3>
+  <p>The word <b>fine</b> has multiple meanings depending on the context, including descriptions of quality, monetary penalties, or something being delicate or thin.</p>
+  
+  <h3>Etymology:</h3>
+  <ul>
+    <li>Derived from Old French <b>fin</b> ("end" or "conclusion"), from Latin <b>finis</b> ("end" or "boundary").</li>
+    <li>The meaning evolved to include concepts of "refinement" and "excellence."</li>
+  </ul>
+</details>
+
+<details>
+  <summary>fine structure</summary>
+  <p>The term <b>fine structure</b> refers to detailed and intricate patterns, levels, or divisions observed in various fields, such as physics, biology, or material science. It often describes structures that are smaller or more detailed than the coarse or general structure.</p>
+</details>
+
+<details>
+  <summary>constituent</summary>
+  <p>A <b>constituent</b> is a component, part, or element that makes up a whole.</p>
+</details>
+
+<details>
+  <summary>mesophile</summary>
+  <p>(Not to be mistaken with <i>mesophyll</i>)</p>
+  <p>A <b>mesophile</b> is a microorganism (bacteria, fungi, or archaea) that grows best in <b>moderate temperature ranges</b>, typically between <b>20°C and 45°C</b> (68°F to 113°F). Mesophiles are the most common type of microorganisms found in nature.</p>
+</details>
+
+<details>
+  <summary>catalase-positive</summary>
+  <p><b>Catalase-positive</b> refers to organisms, particularly <b>bacteria</b>, that produce the enzyme <b>catalase</b>. This enzyme catalyzes the decomposition of <b>hydrogen peroxide (H₂O₂)</b> into <b>water (H₂O)</b> and <b>oxygen (O₂)</b>, which protects cells from oxidative damage caused by reactive oxygen species.</p>
+</details>
+
+<details>
+  <summary>oxidase-negative</summary>
+  <p><b>Oxidase-negative</b> refers to organisms, particularly <b>bacteria</b>, that do not produce the enzyme <b>cytochrome c oxidase</b>. This enzyme is part of the electron transport chain and plays a role in the transfer of electrons to oxygen during aerobic respiration.</p>
+  <ul>
+    <li>Oxidase-negative bacteria may still use oxygen but lack cytochrome c oxidase, relying on different enzymes in their electron transport chain.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>convex ≠ concave</summary>
+  <img src="https://github.com/user-attachments/assets/8f332f3d-de88-42bb-a3b5-4a7aad0c7238" alt="Convex vs Concave" width="400">
+</details>
+
+<details>
+  <summary>margin</summary>
+  <p>A <b>margin</b> is the edge or boundary of an object, surface, or space. It can refer to the outermost limit of a structure in scientific and biological contexts.</p>
+</details>
+
+<details>
+  <summary>plaques</summary>
+  <p>In microbiology, <b>plaques</b> refer to <b>clear zones</b> that appear on a lawn of bacterial cells when they are infected and lysed by bacteriophages (viruses that infect bacteria). Each plaque corresponds to an area where a single phage has infected a bacterial cell and its descendants have lysed neighboring cells.</p>
+</details>
+
+---
+
 
