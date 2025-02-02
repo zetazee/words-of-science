@@ -881,8 +881,16 @@
 </details>
 
 <details>
+  <summary>w/v</summary>
+  <ul>
+    <li>weight/volume</li>
+  </ul>
+</details>
+
+<details>
   <summary>cultivate</summary>
   <ul>
+    <li><strong>etymology:</strong> from latin <em>cultivatus</em>, past participle of <em>cultivare</em> ("to till, cultivate"), from <em>cultus</em> ("cultivated, tilled, cared for"), from <em>colere</em> ("to tend, inhabit, worship").</li>
     <li><strong>to prepare and work on</strong> land for growing crops or plants.
       <ul><li><em>example:</em> farmers cultivate the land before planting seeds.</li></ul>
     </li>
@@ -901,6 +909,10 @@
     <li><strong>german:</strong> kultivieren, pflegen, fördern</li>
   </ul>
 </details>
+
+
+
+
 
 
 
