@@ -78,6 +78,8 @@
   </ul>
 </details>
 
+---
+
 <details>
   <summary>periphyton</summary>
   <ul>
@@ -110,5 +112,98 @@
     <li><b>Vibroid</b> is an adjective used to describe something that is curved or comma-shaped, often applied in microbiology to refer to bacteria that resemble the genus <i>Vibrio</i>. These bacteria are typically rod-shaped with a slight curve, resembling a comma.</li>
   </ul>
 </details>
+
+<details>
+  <summary>surmise /sɜrˈmaɪz/</summary>
+  <ul>
+    <li>To infer or guess something without definite evidence.</li>
+    <li><b>Persian:</b> حدس زده (Hads zadeh)</li>
+    <li><b>Turkish:</b> Tahmin etti</li>
+    <li><b>Norwegian:</b> Antatt</li>
+    <li><b>German:</b> Vermutet</li>
+  </ul>
+</details>
+
+<details>
+  <summary>infer</summary>
+  <ul>
+    <li>To deduce or conclude information from evidence and reasoning rather than from explicit statements.</li>
+    <li><b>Persian:</b> استنباط کردن (Estenbat kardan)</li>
+    <li><b>Turkish:</b> Çıkarmak</li>
+    <li><b>Norwegian:</b> Utlede</li>
+    <li><b>German:</b> Folgern</li>
+  </ul>
+</details>
+
+<details>
+  <summary>elapse /ɪˈlæps/</summary>
+  <ul>
+    <li>To pass or slip by, typically referring to time.</li>
+    <li><b>Persian:</b> سپری شدن (Separi shodan)</li>
+    <li><b>Turkish:</b> Geçmek</li>
+    <li><b>Norwegian:</b> Forløpe</li>
+    <li><b>German:</b> Vergehen</li>
+  </ul>
+</details>
+
+<details>
+  <summary>devise</summary>
+  <ul>
+    <li>To plan, invent, or design something carefully or thoughtfully.</li>
+    <li><b>Persian:</b> تدبیر کردن (Tadbir kardan) / ابداع کردن (Ebdah kardan)</li>
+    <li><b>Turkish:</b> Tasarlamak</li>
+    <li><b>Norwegian:</b> Utforme</li>
+    <li><b>German:</b> Entwickeln</li>
+  </ul>
+</details>
+
+<details>
+  <summary>excreted /ɪkˈskriːtɪd/</summary>
+  <ul>
+    <li>(<b>excrete</b>) To eliminate or expel waste or unwanted substances from the body, typically through a biological process such as sweating, urination, or defecation.</li>
+    <li><b>Persian:</b> دفع شده (Daf' shodeh)</li>
+    <li><b>Turkish:</b> Salgılandı / Atıldı</li>
+    <li><b>Norwegian:</b> Utskilt</li>
+    <li><b>German:</b> Ausgeschieden</li>
+  </ul>
+</details>
+
+<details>
+  <summary>prosthecae</summary>
+  <ul>
+    <li>The <b>stalk</b> being described is likely a type of <b>prostheca</b>—a cellular extension found in certain bacteria. Prosthecae are distinct from structures formed by secretion or excretion in that they are <b>integral extensions of the cell membrane and cytoplasm</b>, rather than extracellular byproducts.</li>
+    <li><b>Prosthecae</b> (plural of <b>prostheca</b>) are defined as cellular extensions or appendages produced by some prokaryotes, such as <i>Caulobacter</i> and other bacteria in the Alphaproteobacteria class. These structures are unique in that they are <b>integral outgrowths of the cell</b>, formed from the cytoplasm, cell membrane, and often the cell wall, rather than being secreted or excreted extracellular products.</li>
+  </ul>
+  <ol>
+    <li><b>Structure:</b> Prosthecae are continuous with the <b>cell membrane</b> and cytoplasm, making them part of the cellular body.</li>
+    <li><b>Function:</b>
+      <ul>
+        <li>They increase the surface area of the cell, aiding in nutrient absorption.</li>
+        <li>They may play a role in attachment to surfaces or environmental interactions.</li>
+        <li>In some species, they are involved in reproduction or maintaining buoyancy.</li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+<details>
+  <summary>swarmer /ˈswɔːr-mər/</summary>
+  <ul>
+    <li>Derived from the verb <b>swarm</b>, meaning to move in a large group or to move energetically or busily.</li>
+    <li><b>Swarmer</b> is a noun used in microbiology to describe a specific type of <b>motile cell</b>, often seen in the life cycles of certain bacteria and protists. In the bacterial context, swarmers are motile cells with flagella that allow them to move actively, typically playing roles in colonization, dispersal, or reproduction.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>subpolar</summary>
+  <ul>
+    <li>sub: under</li>
+    <li>polar: relating to the poles</li>
+    <li><b>Subpolar flagella</b> are located close to, but not at, the absolute poles of a bacterium. Instead of being at the extreme tip of the cell, they are slightly off-center from the poles.</li>
+    <li>Subpolar flagella provide different swimming dynamics compared to strictly polar flagella, potentially allowing the bacterium to maneuver more effectively in its environment.</li>
+  </ul>
+</details>
+
+---
 
 
