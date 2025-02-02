@@ -739,4 +739,173 @@
 
 ---
 
+<details>
+  <summary>herein</summary>
+  <p><b>Herein</b> means "in this place" or "in this document/context." It is often used in formal writing or legal contexts.</p>
+</details>
+
+<details>
+  <summary>dilute</summary>
+  <p><b>Dilute</b> means to make a substance thinner or weaker by adding another substance, usually a liquid.</p>
+</details>
+
+<details>
+  <summary>transverse</summary>
+  <p><b>Transverse</b> refers to something oriented at a right angle to a main axis or direction, often used in scientific and anatomical contexts.</p>
+</details>
+
+<details>
+  <summary>flagella - fimbriae difference</summary>
+  <ul>
+    <li><strong>Flagella:</strong></li>
+    <ul>
+      <li>Long, whip-like appendages that enable motility in certain bacteria, allowing them to move toward or away from stimuli (chemotaxis or phototaxis).</li>
+      <li>Example: Found in motile bacteria like <em>Escherichia coli</em>.</li>
+    </ul>
+    <li><strong>Fimbriae:</strong></li>
+    <ul>
+      <li>Short, hair-like structures that help bacteria adhere to surfaces, host tissues, or each other. They play a crucial role in biofilm formation and colonization but are not used for motility.</li>
+      <li>Example: Found in bacteria like <em>Neisseria gonorrhoeae</em>.</li>
+    </ul>
+    <li><strong>Comparison Table:</strong></li>
+  </ul>
+  <table>
+    <tr>
+      <th>Feature</th>
+      <th>Flagella</th>
+      <th>Fimbriae</th>
+    </tr>
+    <tr>
+      <td><strong>Function</strong></td>
+      <td>Movement</td>
+      <td>Attachment</td>
+    </tr>
+    <tr>
+      <td><strong>Size</strong></td>
+      <td>Long (up to micrometers)</td>
+      <td>Short (&lt;1 µm)</td>
+    </tr>
+    <tr>
+      <td><strong>Number</strong></td>
+      <td>Few (1-10)</td>
+      <td>Many (hundreds)</td>
+    </tr>
+    <tr>
+      <td><strong>Structure</strong></td>
+      <td>Basal body, hook, filament</td>
+      <td>Protein <em>pilin</em></td>
+    </tr>
+    <tr>
+      <td><strong>Presence</strong></td>
+      <td>Gram-positive and negative</td>
+      <td>Mainly Gram-negative</td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary>conjunction</summary>
+  <ul>
+    <li>persian: پیوند (peyvand) or حرف ربط (harf-e rabt) for the grammatical term</li>
+    <li>turkish: bağlaç (for grammar) or birleşme (general sense)</li>
+    <li>norwegian: konjunksjon</li>
+    <li>german: Konjunktion</li>
+  </ul>
+</details>
+
+<details>
+  <summary>aforested</summary>
+  <ul>
+    <li>persian: مذکور فوق (mazkoor-e fowq)</li>
+    <li>turkish: yukarıda belirtilen</li>
+    <li>norwegian: ovennevnte</li>
+    <li>german: obengenannt</li>
+  </ul>
+</details>
+
+<details>
+  <summary>bear</summary>
+  <ul>
+    <li>relation or connection: ارتباط (ertebat)</li>
+    <li>posture: حالت (halat)</li>
+    <li>direction: جهت (jahat)</li>
+    <li>mechanical: یاتاقان (yataghan)</li>
+  </ul>
+</details>
+
+<details>
+  <summary>connote</summary>
+  <ul>
+    <li>persian: توانایی دلالت داشتن (tavanayi-e delalat dashtan)</li>
+    <li>turkish: ima edebilmek</li>
+    <li>norwegian: kunne konnotere</li>
+    <li>german: konnotieren können</li>
+  </ul>
+</details>
+
+<details>
+  <summary>salient</summary>
+  <ul>
+    <li>persian: برجسته</li>
+    <li>turkish: belirgin</li>
+    <li>norwegian: fremtredende</li>
+    <li>german: hervorstechend</li>
+  </ul>
+</details>
+
+<details>
+  <summary>binary fission</summary>
+  <ul>
+    <li>a method of asexual reproduction where an organism divides into two or more parts, each developing into a separate organism (e.g., in bacteria or protozoa).</li>
+  </ul>
+</details>
+
+<details>
+  <summary>buoyant density</summary>
+  <ul>
+    <li>buoyant density refers to the density of a substance, such as a cell, organelle, or molecule, at which it will float or sink in a medium under the influence of buoyant forces.</li>
+    <li>this property is often used in <strong>density gradient centrifugation</strong> to separate biological materials like dna, rna, proteins, or cellular components based on their unique densities.</li>
+  </ul>
+</details>
+
+<details>
+  <summary>convex in elevation with an entire margin</summary>
+  <img src="https://github.com/user-attachments/assets/948bdfbb-921e-4de2-8a18-8288dc532151" alt="convex in elevation with an entire margin">
+</details>
+
+<details>
+  <summary>w/v</summary>
+  <ul>
+    <li>weight/volume</li>
+  </ul>
+</details>
+
+<details>
+  <summary>cultivate</summary>
+  <ul>
+    <li><strong>to prepare and work on</strong> land for growing crops or plants.
+      <ul><li><em>example:</em> farmers cultivate the land before planting seeds.</li></ul>
+    </li>
+    <li><strong>to nurture and improve</strong> something through care, effort, and practice.
+      <ul><li><em>example:</em> she cultivated a deep understanding of microbiology.</li></ul>
+    </li>
+    <li><strong>to develop relationships</strong> by fostering connections.
+      <ul><li><em>example:</em> he cultivated friendships with researchers in his field.</li></ul>
+    </li>
+    <li><strong>to refine or enhance</strong> qualities, skills, or habits.
+      <ul><li><em>example:</em> reading every day helps cultivate a strong vocabulary.</li></ul>
+    </li>
+    <li><strong>persian:</strong> پرورش دادن (parvaresh dâdan), کشت کردن (kesht kardan)</li>
+    <li><strong>turkish:</strong> yetiştirmek, geliştirmek</li>
+    <li><strong>norwegian:</strong> dyrke, utvikle</li>
+    <li><strong>german:</strong> kultivieren, pflegen, fördern</li>
+  </ul>
+</details>
+
+
+
+
+
+
+
 
